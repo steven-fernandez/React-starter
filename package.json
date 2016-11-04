@@ -1,7 +1,7 @@
 {
   "name": "react-starterify",
   "version": "2.4.1",
-  "description": "React JS application skeleton using Browserify and other awesome tools",
+  "description": "React skeleton using Browserify and other awesome tools",
   "main": "app.js",
   "repository": {
     "type": "git",
@@ -32,17 +32,18 @@
     "deploy": "gulp deploy",
     "test": "ava --tap | tap-nyan"
   },
-  "author": "Maurizio Mangione",
+  "author": "Steven Fernandez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Granze/react-starterify/issues"
+    "url": "https://github.com/steven-fernandez/React-starter/issues"
   },
-  "homepage": "https://github.com/Granze/react-starterify",
+  "homepage": "https://github.com/steven-fernandez/React-starter",
   "dependencies": {
     "history": "^2.0.0",
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
-    "react-router": "^2.0.0"
+    "react-router": "^2.0.0",
+    "react-templates": "^0.5.4"
   },
   "devDependencies": {
     "autoprefixer": "^6.0.0",
