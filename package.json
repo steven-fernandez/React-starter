@@ -42,8 +42,7 @@
     "history": "^2.0.0",
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
-    "react-router": "^2.0.0",
-    "react-templates": "^0.5.4"
+    "react-router": "^2.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.0.0",
