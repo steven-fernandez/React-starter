@@ -8,7 +8,7 @@ A minimal React starter.
 
 ## Usage
 
-[Download React Start]
+[Download React Starter]
 
 __Install the dependencies:__
 
