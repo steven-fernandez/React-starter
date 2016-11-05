@@ -8,7 +8,7 @@ A minimal React starter.
 
 ## Usage
 
-[Download React Starter]
+git clone https://github.com/steven-fernandez/React-starter.git
 
 __Install the dependencies:__
 
