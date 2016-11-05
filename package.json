@@ -1,11 +1,11 @@
 {
-  "name": "react-starterify",
+  "name": "react-starter",
   "version": "2.4.1",
   "description": "React skeleton using Browserify and other awesome tools",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Granze/react-starterify"
+    "url": "https://github.com/steven-fernandez/React-starter.git"
   },
   "keywords": [
     "gulp",
